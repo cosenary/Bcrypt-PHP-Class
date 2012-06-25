@@ -6,7 +6,7 @@ This is an easy-to-use static PHP class for Bcyrpt.
 Your feedback is always welcome.
 
 > If you are new to the concept of Bcyrpt, just [take a look](#bcrypt) at it.  
-> The documentation is also available as a [PDF file](http://cl.ly/1E0c1h0V3E2R2v2f1208).
+> The documentation is also available as a [PDF file](http://cl.ly/3E1K0X2q292G0c110w2h).
 
 ## Requirements ##
 
